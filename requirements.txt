@@ -7,4 +7,3 @@ seaborn
 Sequential
 LSTM
 tensorflow
-input
