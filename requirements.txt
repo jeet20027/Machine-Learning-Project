@@ -4,8 +4,5 @@ numpy
 matplotlib
 scikit-learn
 seaborn
-Sequential
-LSTM
 tensorflow
-statsmodel
-
+statsmodels
