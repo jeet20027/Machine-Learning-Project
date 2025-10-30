@@ -7,3 +7,5 @@ seaborn
 Sequential
 LSTM
 tensorflow
+statsmodel
+streamlit
